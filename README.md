@@ -7,3 +7,5 @@ I have scored 494 from the LGS exam here in Turkey, which is something I am quit
 I love stuff like backporting libs etc, alongside writing my own stuff and cutting ties with dependencies
 
 Formerly trans, currently back to he/him
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow32a&theme=dark&refr2"/>
